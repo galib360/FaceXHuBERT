@@ -1,0 +1,1 @@
+This folder will contain rendered video with audio. 

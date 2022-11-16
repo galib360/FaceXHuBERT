@@ -1,0 +1,1 @@
+This folder will contain the temporary frames of the renders. 

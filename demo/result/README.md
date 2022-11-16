@@ -1,0 +1,1 @@
+This folder will contain generated vertex data result in `.npy` format.

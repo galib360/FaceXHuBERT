@@ -1,0 +1,1 @@
+Put the downloaded FaceXHuBERT pretrained model in this folder. 

@@ -1,0 +1,1 @@
+This folder will contain temporary face meshes used for rendering the evaluation renders. 

@@ -1,0 +1,1 @@
+This folder will contain temporary frames for the rendered videos of the evaluation script. 

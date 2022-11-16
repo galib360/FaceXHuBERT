@@ -1,0 +1,1 @@
+This folder will contain the predicted results of the test split audio sequences in `.npy` format after the training script ends. Run `render_result.py` to render the results in this folder.  

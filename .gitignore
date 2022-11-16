@@ -1,0 +1,7 @@
+# ignore the data files
+BIWI/wav/*.wav
+
+# ignore the following extensions
+*.npy
+*.pth
+*.mp4
