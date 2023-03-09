@@ -3,8 +3,12 @@
 
 >_FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis using Self-Supervised Speech Representation Learning_.
 
+> Authors: Kazi Injamamul Haque, Zerrin Yumak
 
-> This GitHub repository contains PyTorch implementation of the work presented in the paper mentioned above. Given a raw audio, FaceXHuBERT generates and renders expressive 3D facial animation. We recommend watching the supplementary video first. 
+> [[Paper]](https://www.google.com) [[Project Page]](https://www.google.com) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
+
+
+> This GitHub repository contains PyTorch implementation of the work presented in the paper mentioned above. Given a raw audio, FaceXHuBERT generates and renders expressive 3D facial animation. We reccomend visiting the project website and watching the supplementary video.
 
 <p align="center">
 <img src="FaceXHuBERT.png" width="90%" />
@@ -124,6 +128,18 @@ Follow the steps below sequentially as they appear -
 - The rendered videos will be saved in the `Evaluation/renders/videos_with_audio/` folder.
 - The computed Mean Face Vertex Error will be saved in `Evaluation/quantitative_metric.txt`
 
+
+## Citation
+
+If you find this code useful for your work, please be kind to consider citing our paper:
+```
+@misc{FaceXHuBERT,
+title={FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis using Self-Supervised Speech Representation Learning},
+author={Haque, Kazi Injamamul and Yumak, Zerrin},
+booktitle={Placeholder},
+year={2023}
+}
+```
 
 ## Acknowledgement
 We would like to thank the authors of FaceFormer for making their code available. Thanks to ETH Zurich CVL for providing us access to the _Biwi 3D Audiovisual Corpus_. The HuBERT implementation is borrowed from [Hugging Face](https://huggingface.co/).
