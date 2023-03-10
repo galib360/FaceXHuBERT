@@ -1,0 +1,10 @@
+@misc{https://doi.org/10.48550/arxiv.2303.05416,
+  doi = {10.48550/ARXIV.2303.05416},
+  url = {https://arxiv.org/abs/2303.05416},
+  author = {Haque,  Kazi Injamamul and Yumak,  Zerrin},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI),  FOS: Computer and information sciences,  FOS: Computer and information sciences,  I.2.0; I.3.0; I.5.0},
+  title = {FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
+}

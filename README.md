@@ -5,7 +5,7 @@
 
 > Authors: Kazi Injamamul Haque, Zerrin Yumak
 
-> [[Paper]](https://www.google.com) [[Project Page]](https://www.google.com) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
+> [[Paper]](https://arxiv.org/pdf/2303.05416.pdf) [[Project Page]](https://galib360.github.io/FaceXHuBERT/) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
 
 
 > This GitHub repository contains PyTorch implementation of the work presented in the paper mentioned above. Given a raw audio, FaceXHuBERT generates and renders expressive 3D facial animation. We reccomend visiting the project website and watching the supplementary video.
@@ -133,11 +133,15 @@ Follow the steps below sequentially as they appear -
 
 If you find this code useful for your work, please be kind to consider citing our paper:
 ```
-@misc{FaceXHuBERT,
-title={FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis using Self-Supervised Speech Representation Learning},
-author={Haque, Kazi Injamamul and Yumak, Zerrin},
-booktitle={Placeholder},
-year={2023}
+@misc{https://doi.org/10.48550/arxiv.2303.05416,
+  doi = {10.48550/ARXIV.2303.05416},
+  url = {https://arxiv.org/abs/2303.05416},
+  author = {Haque,  Kazi Injamamul and Yumak,  Zerrin},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI),  FOS: Computer and information sciences,  FOS: Computer and information sciences,  I.2.0; I.3.0; I.5.0},
+  title = {FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
 
