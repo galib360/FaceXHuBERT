@@ -1,11 +1,11 @@
-# FaceXHuBERT  
+# FaceXHuBERT (ICMI '23)
 ### Code repository for the paper: 
 
 >_FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis using Self-Supervised Speech Representation Learning_.
 
 > Authors: Kazi Injamamul Haque, Zerrin Yumak
 
-> [[Paper]](https://arxiv.org/pdf/2303.05416.pdf) [[Project Page]](https://galib360.github.io/FaceXHuBERT/) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
+> [[Paper (Pre-print)]](https://arxiv.org/pdf/2303.05416.pdf) [[Project Page]](https://galib360.github.io/FaceXHuBERT/) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
 
 
 > This GitHub repository contains PyTorch implementation of the work presented in the paper mentioned above. Given a raw audio, FaceXHuBERT generates and renders expressive 3D facial animation. We reccomend visiting the project website and watching the supplementary video.
@@ -133,15 +133,17 @@ Follow the steps below sequentially as they appear -
 
 If you find this code useful for your work, please be kind to consider citing our paper:
 ```
-@misc{https://doi.org/10.48550/arxiv.2303.05416,
-  doi = {10.48550/ARXIV.2303.05416},
-  url = {https://arxiv.org/abs/2303.05416},
-  author = {Haque,  Kazi Injamamul and Yumak,  Zerrin},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI),  FOS: Computer and information sciences,  FOS: Computer and information sciences,  I.2.0; I.3.0; I.5.0},
-  title = {FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{FaceXHuBERT_Haque_ICMI23,
+    author = {Haque,  Kazi Injamamul and Yumak,  Zerrin},
+    title = {FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning},
+    booktitle = {INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION (ICMI ’23)},
+    year = {2023},
+    location = {Paris, France},
+    numpages = {10},
+    url = {https://doi.org/10.1145/3577190.3614157},
+    doi = {10.1145/3577190.3614157},
+    publisher = {ACM},
+    address = {New York, NY, USA},
 }
 ```
 
