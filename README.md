@@ -5,10 +5,10 @@
 
 > Authors: Kazi Injamamul Haque, Zerrin Yumak
 
-> [[Paper (Pre-print)]](https://arxiv.org/pdf/2303.05416.pdf) [[Project Page]](https://galib360.github.io/FaceXHuBERT/) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
+> [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614157) [[Project Page]](https://galib360.github.io/FaceXHuBERT/) [[Video]](https://www.youtube.com/watch?v=AkBhnNOxwE4&ab_channel=KaziInjamamulHaque)
 
 
-> This GitHub repository contains PyTorch implementation of the work presented in the paper mentioned above. Given a raw audio, FaceXHuBERT generates and renders expressive 3D facial animation. We reccomend visiting the project website and watching the supplementary video.
+> This GitHub repository contains PyTorch implementation of the work presented in the paper mentioned above. Given a raw audio, FaceXHuBERT generates and renders expressive 3D facial animation. We recommend visiting the project website and watching the supplementary video.
 
 <p align="center">
 <img src="FaceXHuBERT.png" width="90%" />
@@ -100,7 +100,7 @@ Follow the steps below sequentially as they appear -
 
 ### Training and Testing
 
-- Train the model by running the follwing command:
+- Train the model by running the following command:
 
 	```
 	python main.py
