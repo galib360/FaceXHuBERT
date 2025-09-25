@@ -49,7 +49,7 @@ pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1+cu1
 
 ## Demo
 
-Download the pretrained model from [FaceXHuBERT model](https://mega.nz/file/L4BzEATa#HZ_BuV56yI4yQLQMhiml5rOLAMcxgjCEwAgcITD_09g). Put the pretrained model under `pretrained_model/` folder.
+Download the pretrained model from [FaceXHuBERT model](https://mega.nz/file/LkBQ2K7Y#_gt38Bn7Fd4W-U2S9EoFz5eAnZ_1UMCy_PESkPXUTe0). Put the pretrained model under `pretrained_model/` folder.
 
 - Given a raw audio file (wav_path), animate the mesh and render the video by running the following command: 
 	```
